@@ -2,7 +2,7 @@
 
 ## Overview
 
-Create an analysis of the bike-share business in NYC through Tableau to determine the investment of a bike-sharing program in Des Moines.
+Create an analysis of the bike-sharing business in NYC through Tableau to determine the future investment of the bike-sharing program in Des Moines.
 
 ## Results
 
